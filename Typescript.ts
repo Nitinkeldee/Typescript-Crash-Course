@@ -13,3 +13,10 @@
 // }
 
 // console.log(getTotal([3, 2, 1]));
+
+// const user = {
+//     firstName: 'John',
+//     lastName: 'Doe',
+//     role: 'professor',
+// };
+// console.log(user);
