@@ -20,3 +20,8 @@
 //     role: 'professor',
 // };
 // console.log(user);
+
+// number
+// string
+// arr[]
+// boolean
