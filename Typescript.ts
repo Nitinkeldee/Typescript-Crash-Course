@@ -25,3 +25,15 @@
 // string
 // arr[]
 // boolean
+
+// Type alias
+
+// type User = {
+//     name: string;
+//     age: number;
+//     address?: string;
+// };
+
+// function login(userData: User): User {
+//     return userData;
+// }
