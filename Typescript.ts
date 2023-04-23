@@ -37,3 +37,10 @@
 // function login(userData: User): User {
 //     return userData;
 // }
+
+// const user = {
+//     name: 'Rakesh K',
+//     age: 30,
+// };
+
+// console.log(login(user));
