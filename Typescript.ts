@@ -44,12 +44,3 @@
 // };
 
 // console.log(login(user));
-
-// type ID = number | string;
-
-// const userId: ID = '123';
-// Interfaces
-// interface Transaction {
-//     payerAccountNumber: number;
-//     payeeAccountNumber: number;
-// }
