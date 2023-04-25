@@ -53,3 +53,11 @@
 //     payerAccountNumber: number;
 //     payeeAccountNumber: number;
 // }
+
+// interface BankAccount {
+//     accountNumber: number;
+//     accountHolder: string;
+//     balance: number;
+//     isActive: boolean;
+//     transactions: Transaction[];
+// }
