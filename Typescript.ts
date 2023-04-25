@@ -61,3 +61,8 @@
 //     isActive: boolean;
 //     transactions: Transaction[];
 // }
+
+// const transaction1: Transaction = {
+//     payerAccountNumber: 123,
+//     payeeAccountNumber: 455,
+// };
