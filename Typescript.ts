@@ -66,3 +66,16 @@
 //     payerAccountNumber: 123,
 //     payeeAccountNumber: 455,
 // };
+
+// const transaction2: Transaction = {
+//     payerAccountNumber: 123,
+//     payeeAccountNumber: 456,
+// };
+
+// const bankAccount: BankAccount = {
+//     accountNumber: 123,
+//     accountHolder: 'John Doe',
+//     balance: 4000,
+//     isActive: true,
+//     transactions: [transaction1, transaction2],
+// };
