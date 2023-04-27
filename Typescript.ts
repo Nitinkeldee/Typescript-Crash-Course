@@ -79,3 +79,24 @@
 //     isActive: true,
 //     transactions: [transaction1, transaction2],
 // };
+
+// Extend
+// interface Book {
+//     name: string;
+//     price: number;
+// }
+
+// interface EBook extends Book {
+//     // name: string;
+//     // price: number;
+//     fileSize: number;
+//     format: string;
+// }
+
+// interface AudioBook extends EBook {
+//     // name: string;
+//     // price: number;
+//     // fileSize: number;
+//     // format: string;
+//     duration: number;
+// }
