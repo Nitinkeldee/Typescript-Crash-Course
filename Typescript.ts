@@ -100,3 +100,17 @@
 //     // format: string;
 //     duration: number;
 // }
+
+// const book: AudioBook = {
+//     name: 'Atomic habits',
+//     price: 1200,
+//     fileSize: 300,
+//     format: 'pdf',
+//     duration: 4,
+// };
+
+// Merge
+// interface Book {
+//     name: string;
+//     price: number;
+// }
