@@ -114,3 +114,13 @@
 //     name: string;
 //     price: number;
 // }
+
+// interface Book {
+//     size: number;
+// }
+
+// const book: Book = {
+//     name: 'Atomic habits',
+//     price: 1200,
+//     size: 45,
+// };
