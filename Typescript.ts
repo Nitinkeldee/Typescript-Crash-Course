@@ -124,3 +124,12 @@
 //     price: 1200,
 //     size: 45,
 // };
+
+// type Book = {
+//     name: string;
+//     price: number;
+// }
+
+// type Book = {
+//     size: number;
+// }
