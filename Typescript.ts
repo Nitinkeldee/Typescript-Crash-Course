@@ -133,3 +133,20 @@
 // type Book = {
 //     size: number;
 // }
+
+// type SanitizedString = string;
+// type EvenNumber = number;
+
+// interface SanitizedString extends string {
+
+// }
+// Unions
+// type ID = number | string;
+// // Narrowing
+// function printId(id: ID) {
+//     if (typeof id === 'string') {
+//         console.log(id.toUpperCase());
+//     } else {
+//         console.log(id);
+//     }
+// }
