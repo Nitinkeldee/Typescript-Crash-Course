@@ -150,3 +150,18 @@
 //         console.log(id);
 //     }
 // }
+
+// printId('1');
+
+// function getFirstThree(x: string | number[]) {
+//     return x.slice(0, 3);
+// }
+
+// console.log(getFirstThree([1, 2, 3, 4, 5]));
+
+// Generics
+
+// function logString(arg: string) {
+//     console.log(arg);
+//     return arg;
+// }
