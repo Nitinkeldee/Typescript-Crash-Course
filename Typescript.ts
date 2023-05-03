@@ -165,3 +165,13 @@
 //     console.log(arg);
 //     return arg;
 // }
+// }
+// function logNumber(arg: number) {
+//     console.log(arg);
+//     return arg;
+// }
+
+// function logArray(arg: any[]) {
+//     console.log(arg);
+//     return arg;
+// }
