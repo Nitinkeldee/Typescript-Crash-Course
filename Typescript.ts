@@ -175,3 +175,18 @@
 //     console.log(arg);
 //     return arg;
 // }
+
+// function logAnything<T>(arg: T): T {
+//     console.log(arg);
+//     return arg;
+// }
+
+// logAnything(['hello']);
+
+// interface HasAge {
+//     age: number;
+// }
+
+// function getOldest<T extends HasAge>(people: T[]): T {
+//     return people.sort((a, b) => b.age - a.age)[0];
+// }
