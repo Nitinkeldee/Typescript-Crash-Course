@@ -220,3 +220,13 @@ interface IUser {
     name: string;
     age: number;
 }
+
+// const fetchPostData = async (path: string): Promise<IPost[]> => {
+//     const response = await fetch(`http://example.com${path}`);
+//     return response.json();
+// };
+
+// const fetchUsersData = async (path: string): Promise<IUser[]> => {
+//     const response = await fetch(`http://example.com${path}`);
+//     return response.json();
+// };
