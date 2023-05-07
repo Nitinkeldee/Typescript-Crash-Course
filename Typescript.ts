@@ -230,3 +230,14 @@ interface IUser {
 //     const response = await fetch(`http://example.com${path}`);
 //     return response.json();
 // };
+
+// const fetchData = async <ResultType>(path: string): Promise<ResultType> => {
+//     const response = await fetch(`http://example.com${path}`);
+//     return response.json();
+// }
+
+// (async () => {
+//     // const posts = await fetchPostData('/posts');
+//     const posts = await fetchData<IPost[]>('/posts');
+//     posts[0].
+// })();
