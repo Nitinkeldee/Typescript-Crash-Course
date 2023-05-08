@@ -241,3 +241,10 @@ interface IUser {
 //     const posts = await fetchData<IPost[]>('/posts');
 //     posts[0].
 // })();
+
+// Structural typing or duck typing
+// interface ICreadential {
+//     username: string;
+//     password: string;
+//     isAdmin?: boolean;
+// }
