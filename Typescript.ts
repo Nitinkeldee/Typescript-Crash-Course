@@ -248,3 +248,8 @@ interface IUser {
 //     password: string;
 //     isAdmin?: boolean;
 // }
+
+// function login(credentials: ICreadential): boolean {
+//     console.log(credentials);
+//     return true;
+// }
