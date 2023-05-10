@@ -253,3 +253,9 @@ interface IUser {
 //     console.log(credentials);
 //     return true;
 // }
+
+// const user = {
+//     username: 'codersgyan',
+//     password: 'secret',
+//     isAdmin: true,
+// };
