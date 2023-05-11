@@ -259,3 +259,10 @@ interface IUser {
 //     password: 'secret',
 //     isAdmin: true,
 // };
+
+// login(user);
+// interface IAuth {
+//     username: string;
+//     password: string;
+//     login(username: string, password: string): boolean;
+// }
