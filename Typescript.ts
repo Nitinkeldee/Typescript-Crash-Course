@@ -266,3 +266,11 @@ interface IUser {
 //     password: string;
 //     login(username: string, password: string): boolean;
 // }
+
+// const auth: IAuth = {
+//     username: 'codersgyan',
+//     password: 'secret',
+//     login(username: string, password: string) {
+//       return true;
+//     }
+// }
