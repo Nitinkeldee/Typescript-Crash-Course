@@ -274,3 +274,6 @@ interface IUser {
 //       return true;
 //     }
 // }
+
+// inference
+// let num = 'Coders';
